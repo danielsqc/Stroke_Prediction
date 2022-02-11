@@ -6,4 +6,4 @@ This project aims to predict Stroke occurrences based on several biological para
 
 ## Dataset
 
-This project is based on the data avaiable on the [Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset), found on Kaggle. 
+This project is based on the data available on the [Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset), found on Kaggle. 
