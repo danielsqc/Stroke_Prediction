@@ -2,7 +2,7 @@
 
 ## Context
 
-This project aims to predict Stroke occurencies, based on several biological parameters, and compare the result of different models. For that, were implemented an ANN (Artificial Neural Networks), a Decision Tree model, and a SVM (Support Vector Machines). 
+This project aims to predict Stroke occurrences based on several biological parameters and compare the result from different models. For that, an ANN (Artificial Neural Networks), a Decision Tree model, and an SVM (Support Vector Machines) were implemented.
 
 ## Dataset
 
